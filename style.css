@@ -1,0 +1,17 @@
+.n1_box {
+  display:inline-block;
+  cursor:pointer;
+  border: 1px solid #a4b9a5;}
+
+.n2_box {
+  display:inline-block;
+  cursor:pointer;
+  border: 1px solid #a4b9a5;}
+
+.n3_box {
+  display:inline-block;
+  cursor:pointer;
+  border: 1px solid #a4b9a5;}
+
+.hiden_box {
+  display:none;}
